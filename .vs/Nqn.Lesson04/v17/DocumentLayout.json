@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|c:\\users\\nam31\\source\\repos\\nqn.lesson04\\nqn.lesson04\\views\\nqncustomerscaffding\\nqnedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|solutionrelative:nqn.lesson04\\views\\nqncustomerscaffding\\nqnedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\nqn.lesson04\\controllers\\nqncustomerscaffdingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|solutionrelative:nqn.lesson04\\controllers\\nqncustomerscaffdingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\nqn.lesson04\\views\\nqncustomerscaffding\\nqncreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|solutionrelative:nqn.lesson04\\views\\nqncustomerscaffding\\nqncreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\nqn.lesson04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|solutionrelative:nqn.lesson04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\nqn.lesson04\\views\\nqncustomerscaffding\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|solutionrelative:nqn.lesson04\\views\\nqncustomerscaffding\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\nqn.lesson04\\controllers\\nqncustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|solutionrelative:nqn.lesson04\\controllers\\nqncustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\nqn.lesson04\\views\\nqncustomer\\nqnlistcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|solutionrelative:nqn.lesson04\\views\\nqncustomer\\nqnlistcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\nqn.lesson04\\views\\nqncustomer\\nqncustomerdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|solutionrelative:nqn.lesson04\\views\\nqncustomer\\nqncustomerdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\nqn.lesson04\\models\\nqncustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFB5A5B-F3F2-407A-9687-44F2EAB91A20}|Nqn.Lesson04\\Nqn.Lesson04.csproj|solutionrelative:nqn.lesson04\\models\\nqncustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NqnEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Views\\NqnCustomerScaffding\\NqnEdit.cshtml",
+              "RelativeDocumentMoniker": "Nqn.Lesson04\\Views\\NqnCustomerScaffding\\NqnEdit.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Views\\NqnCustomerScaffding\\NqnEdit.cshtml",
+              "RelativeToolTip": "Nqn.Lesson04\\Views\\NqnCustomerScaffding\\NqnEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T14:13:45.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NqnCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Views\\NqnCustomerScaffding\\NqnCreate.cshtml",
+              "RelativeDocumentMoniker": "Nqn.Lesson04\\Views\\NqnCustomerScaffding\\NqnCreate.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Views\\NqnCustomerScaffding\\NqnCreate.cshtml",
+              "RelativeToolTip": "Nqn.Lesson04\\Views\\NqnCustomerScaffding\\NqnCreate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T14:08:53.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Views\\NqnCustomerScaffding\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nqn.Lesson04\\Views\\NqnCustomerScaffding\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Views\\NqnCustomerScaffding\\Index.cshtml",
+              "RelativeToolTip": "Nqn.Lesson04\\Views\\NqnCustomerScaffding\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T14:03:01.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NqnCustomerScaffdingController.cs",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Controllers\\NqnCustomerScaffdingController.cs",
+              "RelativeDocumentMoniker": "Nqn.Lesson04\\Controllers\\NqnCustomerScaffdingController.cs",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Controllers\\NqnCustomerScaffdingController.cs",
+              "RelativeToolTip": "Nqn.Lesson04\\Controllers\\NqnCustomerScaffdingController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:13:11.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Nqn.Lesson04\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Nqn.Lesson04\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T08:44:18.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NqnListCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Views\\NqnCustomer\\NqnListCustomer.cshtml",
+              "RelativeDocumentMoniker": "Nqn.Lesson04\\Views\\NqnCustomer\\NqnListCustomer.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Views\\NqnCustomer\\NqnListCustomer.cshtml",
+              "RelativeToolTip": "Nqn.Lesson04\\Views\\NqnCustomer\\NqnListCustomer.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T08:53:25.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NqnCustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Controllers\\NqnCustomerController.cs",
+              "RelativeDocumentMoniker": "Nqn.Lesson04\\Controllers\\NqnCustomerController.cs",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Controllers\\NqnCustomerController.cs",
+              "RelativeToolTip": "Nqn.Lesson04\\Controllers\\NqnCustomerController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwC8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:34:30.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NqnCustomerDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Views\\NqnCustomer\\NqnCustomerDetail.cshtml",
+              "RelativeDocumentMoniker": "Nqn.Lesson04\\Views\\NqnCustomer\\NqnCustomerDetail.cshtml",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Views\\NqnCustomer\\NqnCustomerDetail.cshtml",
+              "RelativeToolTip": "Nqn.Lesson04\\Views\\NqnCustomer\\NqnCustomerDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T08:40:19.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NqnCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Models\\NqnCustomer.cs",
+              "RelativeDocumentMoniker": "Nqn.Lesson04\\Models\\NqnCustomer.cs",
+              "ToolTip": "C:\\Users\\nam31\\source\\repos\\Nqn.Lesson04\\Nqn.Lesson04\\Models\\NqnCustomer.cs",
+              "RelativeToolTip": "Nqn.Lesson04\\Models\\NqnCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:32:22.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
